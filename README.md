@@ -4,8 +4,10 @@
 <br>
 <br>
 <pre>
-Necesito una IA openSource que programar a partir de la base de la ia (osigui utilitzar el chat o un codificador per programar i fer prompts 
-ben fets per fer una IA entrenada en un sector). Aixi com un chatgpt especialitzat en nomes aixo. Permetent dins de una web/app. Necesito trobar una openSource que em permeti fer aixo, sigui gratis o de pagament que pugui fer tot aixo. Lo important es la ia, no la progrmacio de despres ni res. </pre>
+Necesito una IA openSource que programar a partir de la base de la ia
+(osigui utilitzar el chat o un codificador per programar i fer prompts ben fets per fer una IA entrenada en un sector). 
+Aixi com un chatgpt especialitzat en nomes aixo. Permetent dins de una web/app. Necesito trobar una openSource que em permeti fer aixo, sigui gratis o de pagament que pugui fer tot aixo. Lo important es la ia, no la progrmacio de despres ni res. 
+</pre>
 
 
 ## Requisits clau: 
